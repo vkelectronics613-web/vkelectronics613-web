@@ -12,7 +12,7 @@
 
 - 🤖 **Autonomous AI Coding Agents:** Designing modular agent loops, prompt routing architectures, and tool-calling interfaces.
 - ⚡ **Developer Tooling & CLIs:** Engineering terminal-first workflows with minimal overhead and high extensibility.
-- 🌐 **Systems & Cloud Integrations:** Building scalable backends and local-to-cloud utilities.
+- 🌐 **Systems & Cloud Integrations:** Building scalable backends, full-stack applications, and local-to-cloud utilities.
 
 ---
 
@@ -23,7 +23,7 @@
 | [**vibe-coding-cli**](https://github.com/vkelectronics613-web/vibe-coding-cli) | Lightweight AI-assisted coding CLI agent with multi-model routing & session memory | Python, LLM Routing |
 | [**codevagent**](https://github.com/vkelectronics613-web/codevagent) | Autonomous AI developer CLI agent scaffolding full-stack applications & pushing directly to GitHub | JavaScript, Node.js |
 | [**DriveToDisk**](https://github.com/vkelectronics613-web/DriveToDisk) | Mount Google Drive as a physical Windows disk partition with true cloud quota sync | Batch, Windows API |
-| [**nanofield-studio**](https://github.com/vkelectronics613-web/nanofield-studio) | Interactive creative canvas and node studio for generative workflows | React, Vite, Canvas |
+| [**okwebank-app**](https://github.com/vkelectronics613-web/okwebank-app) | Modern digital banking web application with interactive dashboard & secure transaction flows | Next.js, TypeScript |
 
 ---
 
